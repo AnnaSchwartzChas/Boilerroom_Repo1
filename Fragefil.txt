@@ -47,7 +47,7 @@ Fråga 7: Vilken av följande är en distribuerad versionshanteringssystem?
 4. Alla ovanstående
 Fråga 7. Svar: Alla ovanstående
 
-Fråga 7: Vem var kung av Sverige under stora nordiska kriget?
+Fråga 8: Vem var kung av Sverige under stora nordiska kriget?
 1.Karl XI
 2.Karl XII
 3.Gustav II Adolf
