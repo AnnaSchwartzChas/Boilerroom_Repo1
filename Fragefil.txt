@@ -52,4 +52,12 @@ Fråga 8: Vem var kung av Sverige under stora nordiska kriget?
 2.Karl XII
 3.Gustav II Adolf
 4.Oscar II
-Fråga 7 svar. 2
+Fråga 8 svar. 2
+
+Fråga 9: Vilket år slutade andra världskriget?
+1. 1940
+2. 1944
+3. 1984
+4. 1945
+Fråga 9 svar: 4. 1945
+
