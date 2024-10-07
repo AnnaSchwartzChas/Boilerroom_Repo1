@@ -42,3 +42,10 @@ Fråga 5: Vilket verktyg används för att versionshantera kod i ett projekt?
 4. Ansible
 Fråga 5 svar: 2. Gitt
 
+Fråga 7: Vilket år slutade andra världskriget?
+1. 1940
+2. 1944
+3. 1984
+4. 1945
+Fråga 7 svar: 4. 1945
+
