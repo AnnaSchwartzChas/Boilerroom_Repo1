@@ -11,3 +11,10 @@ Fråga 2 Vem gjorde mest poäng i NBA?
 3. Kevin Durant
 4. Joel Embiid
 Fråga 2 svar: 1. Lebron James
+
+Fråga 3: Vilket år släpptes den första versionen av programmeringsspråket C?
+1. 1972
+2. 1980
+3. 1965
+4. 1990
+Fråga 3 svar: 1. 1972
