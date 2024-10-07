@@ -61,3 +61,10 @@ Fråga 9: Vilket år slutade andra världskriget?
 4. 1945
 Fråga 9 svar: 4. 1945
 
+Fråga 10: 1+1 =
+1. 2
+2. 3
+3. 10
+4. 5
+Fråga 10 svar: 1.2
+
