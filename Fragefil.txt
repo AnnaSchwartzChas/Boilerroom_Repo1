@@ -18,3 +18,12 @@ Fråga 3: Vilket år släpptes den första versionen av programmeringsspråket C
 3. 1965
 4. 1990
 Fråga 3 svar: 1. 1972
+
+Fråga 4: Hur många kommuner finns det i Sverige?
+1. 290st
+2. 234st
+3. 291st
+4. 200st
+Fråga 4 svar: 1. 290st . 
+
+
