@@ -4,3 +4,10 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 Fråga 1 svar: 3. Martin Freeman
+
+Fråga 2 Vem gjorde mest poäng i NBA?
+1. Lebron James
+2. Stephen Curry
+3. Kevin Durant
+4. Joel Embiid
+Fråga 2 svar: 1. Lebron James
