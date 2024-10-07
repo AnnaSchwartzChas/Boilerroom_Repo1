@@ -42,3 +42,9 @@ Fråga 5: Vilket verktyg används för att versionshantera kod i ett projekt?
 4. Ansible
 Fråga 5 svar: 2. Gitt
 
+Fråga 7: Vem var kung av Sverige under stora nordiska kriget?
+1.Karl XI
+2.Karl XII
+3.Gustav II Adolf
+4.Oscar II
+Fråga 7 svar. 2
