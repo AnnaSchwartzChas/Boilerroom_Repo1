@@ -4,3 +4,10 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 Fråga 1 svar: 3. Martin Freeman
+
+Fråga 2: Vilket år släpptes den första versionen av programmeringsspråket C?
+1. 1972
+2. 1980
+3. 1965
+4. 1990
+Fråga 2 svar: 1. 1972
