@@ -18,3 +18,10 @@ Fråga 3: Vilket år släpptes den första versionen av programmeringsspråket C
 3. 1965
 4. 1990
 Fråga 3 svar: 1. 1972
+
+Fråga 4: Vilket verktyg används för att versionshantera kod i ett projekt?
+1. Docker
+2. Git
+3. Jenkins
+4. Ansible
+Fråga 4 svar: 2. Gitt
