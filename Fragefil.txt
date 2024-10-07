@@ -47,10 +47,10 @@ Fråga 7: Vilken av följande är en distribuerad versionshanteringssystem?
 4. Alla ovanstående
 Fråga 7. Svar: Alla ovanstående
 
-Fråga 7: Vilket år slutade andra världskriget?
+Fråga 8: Vilket år slutade andra världskriget?
 1. 1940
 2. 1944
 3. 1984
 4. 1945
-Fråga 7 svar: 4. 1945
+Fråga 8 svar: 4. 1945
 
