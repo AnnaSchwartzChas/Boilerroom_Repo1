@@ -5,40 +5,45 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 4. Graham McTavish
 Fråga 1 svar: 3. Martin Freeman
 
-Fråga 4: Vilket år startades andra världskriget?
+Fråga 2: Vilket år startades andra världskriget?
 1) 1945 
 2) 1939
 3) 1955
 4) 1976
 Svar: 2 (1939)
-Fråga 2 Vem gjorde mest poäng i NBA?
+
+Fråga 3 Vem gjorde mest poäng i NBA?
 1. Lebron James
 2. Stephen Curry
 3. Kevin Durant
 4. Joel Embiid
-Fråga 2 svar: 1. Lebron James
+Fråga 3 svar: 1. Lebron James
 
-Fråga 3: Vilket år släpptes den första versionen av programmeringsspråket C?
+Fråga 4: Vilket år släpptes den första versionen av programmeringsspråket C?
 1. 1972
 2. 1980
 3. 1965
 4. 1990
-Fråga 3 svar: 1. 1972
+Fråga 4 svar: 1. 1972
 
-
-Fråga 4: Hur många kommuner finns det i Sverige?
+Fråga 5: Hur många kommuner finns det i Sverige?
 1. 290st
 2. 234st
 3. 291st
 4. 200st
-Fråga 4 svar: 1. 290st . 
+Fråga 5 svar: 1. 290st . 
 
-
-
-Fråga 5: Vilket verktyg används för att versionshantera kod i ett projekt?
+Fråga 6: Vilket verktyg används för att versionshantera kod i ett projekt?
 1. Docker
 2. Git
 3. Jenkins
 4. Ansible
-Fråga 5 svar: 2. Gitt
+Fråga 6 svar: 2. Gitt
+
+Fråga 7: Vilken av följande är en distribuerad versionshanteringssystem?
+1. Subversion
+2. Git
+3. Mercurial
+4. Alla ovanstående
+Fråga 7. Svar: Alla ovanstående
 
