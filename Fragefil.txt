@@ -4,3 +4,10 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 Fråga 1 svar: 3. Martin Freeman
+
+Fråga 2: Vilket år startades andra världskriget?
+1) 1945 
+2) 1939
+3) 1955
+4) 1976
+Svar: 2 (1939)
